@@ -19,7 +19,7 @@ The data file is available [here](https://raw.githubusercontent.com/JosephMartin
 
 **Jupyter Notebook**
 
-All of the code and results are in one Jupypter notebook, [supervised_learning_capstone_classification.ipynb](https://github.com/JosephMartin610/thinkful_data_science_flex_capstone_news_shares/blob/main/supervised_learning_capstone_classification.ipynb).
+All of the code and results are in one Jupypter notebook, [final_capstone_astro_classification.ipynb](https://github.com/JosephMartin610/thinkful_data_science_flex_astronomical_classification/blob/ad1a45d0296820b6a7687c131b9daadcfb3f76d8/final_capstone_astro_classification.ipynb).
 
 **Presentation**
 
