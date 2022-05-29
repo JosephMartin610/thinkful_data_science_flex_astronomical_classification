@@ -23,4 +23,4 @@ All of the code and results are in one Jupypter notebook, [final_capstone_astro_
 
 **Presentation**
 
-The development and performance of the models are described here in the capstone [presentation](https://github.com/JosephMartin610/thinkful_data_science_flex_astronomical_classification/blob/main/supervised_learning_capstone.pdf).
+The development and performance of the models are described here in the capstone [presentation](https://github.com/JosephMartin610/thinkful_data_science_flex_astronomical_classification/blob/main/final_capstone.pdf).
