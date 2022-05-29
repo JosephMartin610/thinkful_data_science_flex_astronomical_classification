@@ -13,7 +13,7 @@ The dataset was obtained from [Kaggle](https://www.kaggle.com/datasets/fedesoria
 - The data come from the Sloan Digital Sky Survey (SDSS), which uses an on-the-ground optical telescope in New Mexico.
 - There are 17 feature columns, and 1 column indicating the known classification as a star, galaxy, or quasar. 
 - These features included quantities measured from images and spectra such as magnitudes and redshifts.
-- The 100,000 rows we are using here are a subset, because there are image and spectra data for approximately 0.5 × 10^9 and 3 × 10^6 objects, respectively.
+- The 100,000 rows we are using here are a subset, because there are image and spectra data for approximately 0.5 × 10<sup>9</sup> and 3 × 10<sup>6</sup> objects, respectively.
 
 The data file is available [here](https://raw.githubusercontent.com/JosephMartin610/thinkful_data_science_flex_data_files/main/star_classification.csv) in another repository.
 
