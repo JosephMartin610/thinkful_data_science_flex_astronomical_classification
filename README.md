@@ -9,7 +9,7 @@
 
 **Source Data**
 
-The dataset was obtained from [Kaggle](https://www.kaggle.com/datasets/fedesoriano/stellar-classification-dataset-sdss17) and is in the form of a 16 MB csv file with 100,000 rows and 18 columns
+The dataset was obtained from [Kaggle](https://www.kaggle.com/datasets/fedesoriano/stellar-classification-dataset-sdss17) and is in the form of a 16 MB csv file with 100,000 rows and 18 columns.
 - The data come from the Sloan Digital Sky Survey (SDSS), which uses an on-the-ground optical telescope in New Mexico.
 - There are 17 feature columns, and 1 column indicating the known classification as a star, galaxy, or quasar. 
 - These features included quantities measured from images and spectra such as magnitudes and redshifts.
